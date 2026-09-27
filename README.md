@@ -9,3 +9,25 @@ Here you'll find my solutions to various machine learning and deep learning prob
 TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
 
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+
+<!-- tensortonic:start -->
+# Chirag Hegde's TensorTonic Solutions
+
+Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
+
+<p align="center">
+  <img src="https://www.tensortonic.com/api/badge/chegde43.svg" alt="TensorTonic Verified Solutions" width="100%" />
+</p>
+
+| Problem | Description | Link |
+|---|---|---|
+| Implement Adam Optimizer Step | Implement one vectorized Adam optimizer step in NumPy with first and second moments, bias correction, and elementwise parameter updates. | https://www.tensortonic.com/problems/adam-optimizer |
+| Angle Between 3D Vectors | Compute the angle between two 3D vectors in NumPy with clamped cosine values and safe handling of zero norms. | https://www.tensortonic.com/problems/angle-between-3d |
+| Compute Entropy for a Node | Compute decision-tree node entropy from class labels using empirical class probabilities and base-two logarithms. | https://www.tensortonic.com/problems/entropy-node |
+| Jaccard Similarity | Compute Jaccard similarity between two collections as intersection size divided by union size. | https://www.tensortonic.com/problems/jaccard-similarity |
+| Monte Carlo Policy Evaluation | Estimate state values from complete Monte Carlo episodes by averaging discounted returns for each visited state. | https://www.tensortonic.com/problems/mc-policy-evaluation |
+| RNN Step Forward (Tanh Cell) | Implement one vanilla RNN timestep with affine input and recurrent transforms followed by tanh activation. | https://www.tensortonic.com/problems/rnn-step-forward |
+| Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
+
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/chegde43)
+<!-- tensortonic:end -->
